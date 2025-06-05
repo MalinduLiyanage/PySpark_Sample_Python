@@ -7,6 +7,7 @@
 <ol>
   <li>Pull the Docker image for Cassandra DB</li>
   <li>Create the keyspace called <code>pyspark_keyspace</code></li>
+  <li>Create <code>customers</code> table on the keyspace</li>
   <li>Insert Data from the <code>.sql</code> file from repo</li>
   <li>Setup PySpark and Environment Variables on System</li>
   <li>Using Jupyter Notebook, we can test the application</li>
