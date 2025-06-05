@@ -1,5 +1,5 @@
 <h2> The PySpark test application with Cassandra Database + GraphX Operations
-
+<br>
 <p>Here in this jupyter notebooks, we are going to explore the Apache PySpark, which is an open-source unified analytics engine for large-scale data processing.</p>
 
 <h3>How to Setup</h3>
